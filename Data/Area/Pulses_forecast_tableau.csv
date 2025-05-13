@@ -1,0 +1,754 @@
+Year,Value,Type,Model,Sheet
+1950,973.0,Historical,-,FoodGrain
+1951,970.0,Historical,-,FoodGrain
+1952,1021.0,Historical,-,FoodGrain
+1953,1091.0,Historical,-,FoodGrain
+1954,1079.0,Historical,-,FoodGrain
+1955,1106.0,Historical,-,FoodGrain
+1956,1111.0,Historical,-,FoodGrain
+1957,1095.0,Historical,-,FoodGrain
+1958,1148.0,Historical,-,FoodGrain
+1959,1158.0,Historical,-,FoodGrain
+1960,1156.0,Historical,-,FoodGrain
+1961,1172.0,Historical,-,FoodGrain
+1962,1178.0,Historical,-,FoodGrain
+1963,1174.0,Historical,-,FoodGrain
+1964,1181.0,Historical,-,FoodGrain
+1965,1151.0,Historical,-,FoodGrain
+1966,1153.0,Historical,-,FoodGrain
+1967,1214.0,Historical,-,FoodGrain
+1968,1204.0,Historical,-,FoodGrain
+1969,1236.0,Historical,-,FoodGrain
+1970,1243.0,Historical,-,FoodGrain
+1971,1226.0,Historical,-,FoodGrain
+1972,1193.0,Historical,-,FoodGrain
+1973,1265.0,Historical,-,FoodGrain
+1974,1211.0,Historical,-,FoodGrain
+1975,1282.0,Historical,-,FoodGrain
+1976,1244.0,Historical,-,FoodGrain
+1977,1275.0,Historical,-,FoodGrain
+1978,1290.0,Historical,-,FoodGrain
+1979,1252.0,Historical,-,FoodGrain
+1980,1267.0,Historical,-,FoodGrain
+1981,1291.0,Historical,-,FoodGrain
+1982,1251.0,Historical,-,FoodGrain
+1983,1312.0,Historical,-,FoodGrain
+1984,1267.0,Historical,-,FoodGrain
+1985,1280.0,Historical,-,FoodGrain
+1986,1272.0,Historical,-,FoodGrain
+1987,1197.0,Historical,-,FoodGrain
+1988,1277.0,Historical,-,FoodGrain
+1989,1268.0,Historical,-,FoodGrain
+1990,1278.0,Historical,-,FoodGrain
+1991,1219.0,Historical,-,FoodGrain
+1992,1232.0,Historical,-,FoodGrain
+1993,1228.0,Historical,-,FoodGrain
+1994,1237.0,Historical,-,FoodGrain
+1995,1210.0,Historical,-,FoodGrain
+1996,1236.0,Historical,-,FoodGrain
+1997,1239.0,Historical,-,FoodGrain
+1998,1252.0,Historical,-,FoodGrain
+1999,1231.0,Historical,-,FoodGrain
+2000,1211.0,Historical,-,FoodGrain
+2001,1228.0,Historical,-,FoodGrain
+2002,1139.0,Historical,-,FoodGrain
+2003,1235.0,Historical,-,FoodGrain
+2004,1201.0,Historical,-,FoodGrain
+2005,1216.0,Historical,-,FoodGrain
+2006,1237.0,Historical,-,FoodGrain
+2007,1241.0,Historical,-,FoodGrain
+2008,1228.0,Historical,-,FoodGrain
+2009,1213.0,Historical,-,FoodGrain
+2010,1267.0,Historical,-,FoodGrain
+2011,1248.0,Historical,-,FoodGrain
+2012,1207.0,Historical,-,FoodGrain
+2013,1260.0,Historical,-,FoodGrain
+2014,1220.0,Historical,-,FoodGrain
+2015,1232.0,Historical,-,FoodGrain
+2016,1292.0,Historical,-,FoodGrain
+2017,1275.0,Historical,-,FoodGrain
+2018,1248.0,Historical,-,FoodGrain
+2019,1270.0,Historical,-,FoodGrain
+2020,1298.0,Historical,-,FoodGrain
+2021,1302.0,Historical,-,FoodGrain
+2022,1322.0,Historical,-,FoodGrain
+2023,1312.5881410973602,Forecast,Exponential Smoothing,FoodGrain
+2024,1320.290559620412,Forecast,Exponential Smoothing,FoodGrain
+2025,1339.8474844485174,Forecast,Exponential Smoothing,FoodGrain
+2026,1340.801826907054,Forecast,Exponential Smoothing,FoodGrain
+2027,1350.1959037275503,Forecast,Exponential Smoothing,FoodGrain
+2028,1357.8983222506022,Forecast,Exponential Smoothing,FoodGrain
+2029,1377.4552470787075,Forecast,Exponential Smoothing,FoodGrain
+2030,1378.409589537244,Forecast,Exponential Smoothing,FoodGrain
+2031,1387.8036663577407,Forecast,Exponential Smoothing,FoodGrain
+2032,1395.5060848807925,Forecast,Exponential Smoothing,FoodGrain
+2033,1415.0630097088979,Forecast,Exponential Smoothing,FoodGrain
+2034,1416.0173521674344,Forecast,Exponential Smoothing,FoodGrain
+2035,1425.411428987931,Forecast,Exponential Smoothing,FoodGrain
+2036,1433.1138475109826,Forecast,Exponential Smoothing,FoodGrain
+2037,1452.670772339088,Forecast,Exponential Smoothing,FoodGrain
+2038,1453.6251147976245,Forecast,Exponential Smoothing,FoodGrain
+2039,1463.019191618121,Forecast,Exponential Smoothing,FoodGrain
+2040,1470.721610141173,Forecast,Exponential Smoothing,FoodGrain
+2041,1490.2785349692783,Forecast,Exponential Smoothing,FoodGrain
+2042,1491.2328774278149,Forecast,Exponential Smoothing,FoodGrain
+2043,1500.6269542483114,Forecast,Exponential Smoothing,FoodGrain
+2044,1508.3293727713633,Forecast,Exponential Smoothing,FoodGrain
+2045,1527.8862975994687,Forecast,Exponential Smoothing,FoodGrain
+2046,1528.840640058005,Forecast,Exponential Smoothing,FoodGrain
+2047,1538.2347168785016,Forecast,Exponential Smoothing,FoodGrain
+2048,1545.9371354015534,Forecast,Exponential Smoothing,FoodGrain
+2049,1565.4940602296588,Forecast,Exponential Smoothing,FoodGrain
+2050,1566.4484026881953,Forecast,Exponential Smoothing,FoodGrain
+2051,1575.842479508692,Forecast,Exponential Smoothing,FoodGrain
+2022,1294.2251018141424,Forecast,Linear Regression,FoodGrain
+2023,1296.4292237442914,Forecast,Linear Regression,FoodGrain
+2024,1298.6333456744414,Forecast,Linear Regression,FoodGrain
+2025,1300.8374676045905,Forecast,Linear Regression,FoodGrain
+2026,1303.0415895347396,Forecast,Linear Regression,FoodGrain
+2027,1305.2457114648887,Forecast,Linear Regression,FoodGrain
+2028,1307.4498333950387,Forecast,Linear Regression,FoodGrain
+2029,1309.6539553251878,Forecast,Linear Regression,FoodGrain
+2030,1311.8580772553369,Forecast,Linear Regression,FoodGrain
+2031,1314.062199185486,Forecast,Linear Regression,FoodGrain
+2032,1316.266321115636,Forecast,Linear Regression,FoodGrain
+2033,1318.470443045785,Forecast,Linear Regression,FoodGrain
+2034,1320.6745649759341,Forecast,Linear Regression,FoodGrain
+2035,1322.878686906084,Forecast,Linear Regression,FoodGrain
+2036,1325.0828088362332,Forecast,Linear Regression,FoodGrain
+2037,1327.2869307663823,Forecast,Linear Regression,FoodGrain
+2038,1329.4910526965314,Forecast,Linear Regression,FoodGrain
+2039,1331.6951746266814,Forecast,Linear Regression,FoodGrain
+2040,1333.8992965568304,Forecast,Linear Regression,FoodGrain
+2041,1336.1034184869795,Forecast,Linear Regression,FoodGrain
+2042,1338.3075404171286,Forecast,Linear Regression,FoodGrain
+2043,1340.5116623472786,Forecast,Linear Regression,FoodGrain
+2044,1342.7157842774277,Forecast,Linear Regression,FoodGrain
+2045,1344.9199062075768,Forecast,Linear Regression,FoodGrain
+2046,1347.1240281377259,Forecast,Linear Regression,FoodGrain
+2047,1349.3281500678759,Forecast,Linear Regression,FoodGrain
+2048,1351.532271998025,Forecast,Linear Regression,FoodGrain
+2049,1353.736393928174,Forecast,Linear Regression,FoodGrain
+2050,1355.940515858324,Forecast,Linear Regression,FoodGrain
+2023,1317.9406124460966,Forecast,Auto ARIMA,FoodGrain
+2024,1325.162002140215,Forecast,Auto ARIMA,FoodGrain
+2025,1329.9820481828992,Forecast,Auto ARIMA,FoodGrain
+2026,1334.238991679671,Forecast,Auto ARIMA,FoodGrain
+2027,1339.2441084451966,Forecast,Auto ARIMA,FoodGrain
+2028,1343.9098608953386,Forecast,Auto ARIMA,FoodGrain
+2029,1348.6436008573016,Forecast,Auto ARIMA,FoodGrain
+2030,1353.3967683539713,Forecast,Auto ARIMA,FoodGrain
+2031,1358.1267152182668,Forecast,Auto ARIMA,FoodGrain
+2032,1362.8668544822283,Forecast,Auto ARIMA,FoodGrain
+2033,1367.605082661312,Forecast,Auto ARIMA,FoodGrain
+2034,1372.342650835161,Forecast,Auto ARIMA,FoodGrain
+2035,1377.0809383475982,Forecast,Auto ARIMA,FoodGrain
+2036,1381.8189202615463,Forecast,Auto ARIMA,FoodGrain
+2037,1386.5569554438775,Forecast,Auto ARIMA,FoodGrain
+2038,1391.2950127730837,Forecast,Auto ARIMA,FoodGrain
+2039,1396.0330478584826,Forecast,Auto ARIMA,FoodGrain
+2040,1400.7710920906727,Forecast,Auto ARIMA,FoodGrain
+2041,1405.5091348529409,Forecast,Auto ARIMA,FoodGrain
+2042,1410.2471768795558,Forecast,Auto ARIMA,FoodGrain
+2043,1414.9852195928067,Forecast,Auto ARIMA,FoodGrain
+2044,1419.72326203278,Forecast,Auto ARIMA,FoodGrain
+2045,1424.4613045128224,Forecast,Auto ARIMA,FoodGrain
+2046,1429.1993470170942,Forecast,Auto ARIMA,FoodGrain
+2047,1433.9373895002063,Forecast,Auto ARIMA,FoodGrain
+2048,1438.6754319914678,Forecast,Auto ARIMA,FoodGrain
+2049,1443.4134744816536,Forecast,Auto ARIMA,FoodGrain
+2050,1448.1515169710472,Forecast,Auto ARIMA,FoodGrain
+2051,1452.8895594610917,Forecast,Auto ARIMA,FoodGrain
+1950,78230.0,Historical,-,Cereals
+1951,78186.0,Historical,-,Cereals
+1952,82243.0,Historical,-,Cereals
+1953,87336.0,Historical,-,Cereals
+1954,85944.0,Historical,-,Cereals
+1955,87344.0,Historical,-,Cereals
+1956,87820.0,Historical,-,Cereals
+1957,86942.0,Historical,-,Cereals
+1958,90453.0,Historical,-,Cereals
+1959,90990.0,Historical,-,Cereals
+1960,92018.0,Historical,-,Cereals
+1961,92989.0,Historical,-,Cereals
+1962,93579.0,Historical,-,Cereals
+1963,93235.0,Historical,-,Cereals
+1964,94237.0,Historical,-,Cereals
+1965,92385.0,Historical,-,Cereals
+1966,93181.0,Historical,-,Cereals
+1967,98772.0,Historical,-,Cereals
+1968,99166.0,Historical,-,Cereals
+1969,101547.0,Historical,-,Cereals
+1970,101777.0,Historical,-,Cereals
+1971,100472.0,Historical,-,Cereals
+1972,98362.0,Historical,-,Cereals
+1973,103111.0,Historical,-,Cereals
+1974,99051.0,Historical,-,Cereals
+1975,103727.0,Historical,-,Cereals
+1976,101372.0,Historical,-,Cereals
+1977,104018.0,Historical,-,Cereals
+1978,105352.0,Historical,-,Cereals
+1979,102947.0,Historical,-,Cereals
+1980,104210.0,Historical,-,Cereals
+1981,105295.0,Historical,-,Cereals
+1982,102262.0,Historical,-,Cereals
+1983,107621.0,Historical,-,Cereals
+1984,103936.0,Historical,-,Cereals
+1985,103605.0,Historical,-,Cereals
+1986,104039.0,Historical,-,Cereals
+1987,97147.0,Historical,-,Cereals
+1988,104528.0,Historical,-,Cereals
+1989,103358.0,Historical,-,Cereals
+1990,103173.0,Historical,-,Cereals
+1991,99329.0,Historical,-,Cereals
+1992,100788.0,Historical,-,Cereals
+1993,100503.0,Historical,-,Cereals
+1994,100832.0,Historical,-,Cereals
+1995,98732.0,Historical,-,Cereals
+1996,101134.0,Historical,-,Cereals
+1997,100976.0,Historical,-,Cereals
+1998,101666.0,Historical,-,Cereals
+1999,101988.0,Historical,-,Cereals
+2000,99757.0,Historical,-,Cereals
+2001,100771.0,Historical,-,Cereals
+2002,93364.0,Historical,-,Cereals
+2003,99988.0,Historical,-,Cereals
+2004,97315.0,Historical,-,Cereals
+2005,99208.0,Historical,-,Cereals
+2006,100516.0,Historical,-,Cereals
+2007,100435.0,Historical,-,Cereals
+2008,100739.0,Historical,-,Cereals
+2009,98051.0,Historical,-,Cereals
+2010,100270.0,Historical,-,Cereals
+2011,100293.0,Historical,-,Cereals
+2012,97514.0,Historical,-,Cereals
+2013,99829.0,Historical,-,Cereals
+2014,100746.0,Historical,-,Cereals
+2015,98306.0,Historical,-,Cereals
+2016,99786.0,Historical,-,Cereals
+2017,97711.0,Historical,-,Cereals
+2018,95621.0,Historical,-,Cereals
+2019,99007.0,Historical,-,Cereals
+2020,101012.0,Historical,-,Cereals
+2021,99437.0,Historical,-,Cereals
+2022,103303.0,Historical,-,Cereals
+2023,104599.0,Historical,-,Cereals
+2023,99902.83951056,Forecast,SVR,Cereals
+2024,99902.71960350459,Forecast,SVR,Cereals
+2025,99902.62395187559,Forecast,SVR,Cereals
+2026,99902.55048134056,Forecast,SVR,Cereals
+2027,99902.49704860391,Forecast,SVR,Cereals
+2028,99902.46148068304,Forecast,SVR,Cereals
+2029,99902.44161173278,Forecast,SVR,Cereals
+2030,99902.43531680194,Forecast,SVR,Cereals
+2031,99902.44054200614,Forecast,SVR,Cereals
+2032,99902.45533071671,Forecast,SVR,Cereals
+2033,99902.47784548702,Forecast,SVR,Cereals
+2034,99902.50638556459,Forecast,SVR,Cereals
+2035,99902.53939996111,Forecast,SVR,Cereals
+2036,99902.57549617234,Forecast,SVR,Cereals
+2037,99902.61344474755,Forecast,SVR,Cereals
+2038,99902.65218000396,Forecast,SVR,Cereals
+2039,99902.6907972606,Forecast,SVR,Cereals
+2040,99902.72854702652,Forecast,SVR,Cereals
+2041,99902.76482662112,Forecast,SVR,Cereals
+2042,99902.79916972679,Forecast,SVR,Cereals
+2043,99902.83123437926,Forecast,SVR,Cereals
+2044,99902.86078988909,Forecast,SVR,Cereals
+2045,99902.887703161,Forecast,SVR,Cereals
+2046,99902.91192483895,Forecast,SVR,Cereals
+2047,99902.93347565607,Forecast,SVR,Cereals
+2048,99902.9524333141,Forecast,SVR,Cereals
+2049,99902.96892015687,Forecast,SVR,Cereals
+2050,99902.9830918432,Forecast,SVR,Cereals
+2023,104013.14594594596,Forecast,Linear Regression,Cereals
+2024,104175.11810440579,Forecast,Linear Regression,Cereals
+2025,104337.09026286562,Forecast,Linear Regression,Cereals
+2026,104499.06242132545,Forecast,Linear Regression,Cereals
+2027,104661.03457978528,Forecast,Linear Regression,Cereals
+2028,104823.00673824511,Forecast,Linear Regression,Cereals
+2029,104984.97889670494,Forecast,Linear Regression,Cereals
+2030,105146.95105516477,Forecast,Linear Regression,Cereals
+2031,105308.9232136246,Forecast,Linear Regression,Cereals
+2032,105470.89537208443,Forecast,Linear Regression,Cereals
+2033,105632.86753054426,Forecast,Linear Regression,Cereals
+2034,105794.83968900409,Forecast,Linear Regression,Cereals
+2035,105956.81184746392,Forecast,Linear Regression,Cereals
+2036,106118.78400592375,Forecast,Linear Regression,Cereals
+2037,106280.75616438358,Forecast,Linear Regression,Cereals
+2038,106442.72832284341,Forecast,Linear Regression,Cereals
+2039,106604.70048130324,Forecast,Linear Regression,Cereals
+2040,106766.67263976307,Forecast,Linear Regression,Cereals
+2041,106928.6447982229,Forecast,Linear Regression,Cereals
+2042,107090.61695668273,Forecast,Linear Regression,Cereals
+2043,107252.58911514256,Forecast,Linear Regression,Cereals
+2044,107414.56127360239,Forecast,Linear Regression,Cereals
+2045,107576.53343206222,Forecast,Linear Regression,Cereals
+2046,107738.50559052205,Forecast,Linear Regression,Cereals
+2047,107900.47774898188,Forecast,Linear Regression,Cereals
+2048,108062.44990744171,Forecast,Linear Regression,Cereals
+2049,108224.42206590154,Forecast,Linear Regression,Cereals
+2050,108386.39422436137,Forecast,Linear Regression,Cereals
+2024,102508.67875545575,Forecast,Exponential Smoothing,Cereals
+2025,102674.87626889715,Forecast,Exponential Smoothing,Cereals
+2026,102820.00517939842,Forecast,Exponential Smoothing,Cereals
+2027,104083.51971084185,Forecast,Exponential Smoothing,Cereals
+2028,104276.56710496753,Forecast,Exponential Smoothing,Cereals
+2029,104442.76461840892,Forecast,Exponential Smoothing,Cereals
+2030,104587.8935289102,Forecast,Exponential Smoothing,Cereals
+2031,105851.40806035363,Forecast,Exponential Smoothing,Cereals
+2032,106044.4554544793,Forecast,Exponential Smoothing,Cereals
+2033,106210.6529679207,Forecast,Exponential Smoothing,Cereals
+2034,106355.78187842197,Forecast,Exponential Smoothing,Cereals
+2035,107619.29640986542,Forecast,Exponential Smoothing,Cereals
+2036,107812.3438039911,Forecast,Exponential Smoothing,Cereals
+2037,107978.5413174325,Forecast,Exponential Smoothing,Cereals
+2038,108123.67022793376,Forecast,Exponential Smoothing,Cereals
+2039,109387.1847593772,Forecast,Exponential Smoothing,Cereals
+2040,109580.23215350288,Forecast,Exponential Smoothing,Cereals
+2041,109746.42966694427,Forecast,Exponential Smoothing,Cereals
+2042,109891.55857744554,Forecast,Exponential Smoothing,Cereals
+2043,111155.07310888897,Forecast,Exponential Smoothing,Cereals
+2044,111348.12050301465,Forecast,Exponential Smoothing,Cereals
+2045,111514.31801645605,Forecast,Exponential Smoothing,Cereals
+2046,111659.44692695732,Forecast,Exponential Smoothing,Cereals
+2047,112922.96145840075,Forecast,Exponential Smoothing,Cereals
+2048,113116.00885252643,Forecast,Exponential Smoothing,Cereals
+2049,113282.20636596782,Forecast,Exponential Smoothing,Cereals
+2050,113427.3352764691,Forecast,Exponential Smoothing,Cereals
+2051,114690.84980791253,Forecast,Exponential Smoothing,Cereals
+1991,2874.0,Historical,-,Fruits
+1992,3206.0,Historical,-,Fruits
+1993,3184.0,Historical,-,Fruits
+1994,4310.0,Historical,-,Fruits
+1995,3357.0,Historical,-,Fruits
+1996,3580.0,Historical,-,Fruits
+1997,3702.0,Historical,-,Fruits
+1998,3727.0,Historical,-,Fruits
+1999,3797.0,Historical,-,Fruits
+2000,3869.0,Historical,-,Fruits
+2001,4010.0,Historical,-,Fruits
+2002,3788.0,Historical,-,Fruits
+2003,4675.0,Historical,-,Fruits
+2004,4964.0,Historical,-,Fruits
+2005,5510.0,Historical,-,Fruits
+2006,5554.0,Historical,-,Fruits
+2007,5776.0,Historical,-,Fruits
+2008,6101.0,Historical,-,Fruits
+2009,6329.0,Historical,-,Fruits
+2010,6383.0,Historical,-,Fruits
+2011,6704.0,Historical,-,Fruits
+2012,6982.0,Historical,-,Fruits
+2013,7216.0,Historical,-,Fruits
+2014,6109.0,Historical,-,Fruits
+2015,6301.0,Historical,-,Fruits
+2016,6373.0,Historical,-,Fruits
+2017,6510.0,Historical,-,Fruits
+2018,6597.0,Historical,-,Fruits
+2019,6760.0,Historical,-,Fruits
+2020,6929.73,Historical,-,Fruits
+2021,7063.94,Historical,-,Fruits
+2022,7024.7,Historical,-,Fruits
+2023,7131.08,Historical,-,Fruits
+2024,7347.7266047746325,Forecast,Exponential Smoothing,Fruits
+2025,7537.646119351693,Forecast,Exponential Smoothing,Fruits
+2026,7539.165535492673,Forecast,Exponential Smoothing,Fruits
+2027,7628.34483760771,Forecast,Exponential Smoothing,Fruits
+2028,7844.974516695906,Forecast,Exponential Smoothing,Fruits
+2029,8034.8940312729665,Forecast,Exponential Smoothing,Fruits
+2030,8036.413447413946,Forecast,Exponential Smoothing,Fruits
+2031,8125.592749528984,Forecast,Exponential Smoothing,Fruits
+2032,8342.222428617179,Forecast,Exponential Smoothing,Fruits
+2033,8532.14194319424,Forecast,Exponential Smoothing,Fruits
+2034,8533.661359335221,Forecast,Exponential Smoothing,Fruits
+2035,8622.840661450258,Forecast,Exponential Smoothing,Fruits
+2036,8839.470340538452,Forecast,Exponential Smoothing,Fruits
+2037,9029.389855115513,Forecast,Exponential Smoothing,Fruits
+2038,9030.909271256494,Forecast,Exponential Smoothing,Fruits
+2039,9120.088573371531,Forecast,Exponential Smoothing,Fruits
+2040,9336.718252459725,Forecast,Exponential Smoothing,Fruits
+2041,9526.637767036786,Forecast,Exponential Smoothing,Fruits
+2042,9528.157183177767,Forecast,Exponential Smoothing,Fruits
+2043,9617.336485292804,Forecast,Exponential Smoothing,Fruits
+2044,9833.966164380998,Forecast,Exponential Smoothing,Fruits
+2045,10023.885678958059,Forecast,Exponential Smoothing,Fruits
+2046,10025.40509509904,Forecast,Exponential Smoothing,Fruits
+2047,10114.584397214077,Forecast,Exponential Smoothing,Fruits
+2048,10331.21407630227,Forecast,Exponential Smoothing,Fruits
+2049,10521.133590879332,Forecast,Exponential Smoothing,Fruits
+2050,10522.653007020313,Forecast,Exponential Smoothing,Fruits
+2051,10611.83230913535,Forecast,Exponential Smoothing,Fruits
+2024,7358.776312440547,Forecast,SARIMA,Fruits
+2025,7539.556706871015,Forecast,SARIMA,Fruits
+2026,7536.1162104921905,Forecast,SARIMA,Fruits
+2027,7686.544630130163,Forecast,SARIMA,Fruits
+2028,7905.894404718151,Forecast,SARIMA,Fruits
+2029,8093.962875482163,Forecast,SARIMA,Fruits
+2030,8089.437252098094,Forecast,SARIMA,Fruits
+2031,8243.018086245416,Forecast,SARIMA,Fruits
+2032,8461.384480471344,Forecast,SARIMA,Fruits
+2033,8650.07141836058,Forecast,SARIMA,Fruits
+2034,8645.348090138248,Forecast,SARIMA,Fruits
+2035,8799.137355294044,Forecast,SARIMA,Fruits
+2036,9017.425398176534,Forecast,SARIMA,Fruits
+2037,9206.156573674267,Forecast,SARIMA,Fruits
+2038,9201.416027760726,Forecast,SARIMA,Fruits
+2039,9355.218480682906,Forecast,SARIMA,Fruits
+2040,9573.501067760628,Forecast,SARIMA,Fruits
+2041,9762.23516731852,Forecast,SARIMA,Fruits
+2042,9757.493377033006,Forecast,SARIMA,Fruits
+2043,9911.296642189453,Forecast,SARIMA,Fruits
+2044,10129.578873775372,Forecast,SARIMA,Fruits
+2045,10318.313158311968,Forecast,SARIMA,Fruits
+2046,10313.57128533149,Forecast,SARIMA,Fruits
+2047,10467.37459964711,Forecast,SARIMA,Fruits
+2048,10685.656808936166,Forecast,SARIMA,Fruits
+2049,10874.391104864375,Forecast,SARIMA,Fruits
+2050,10869.649226635962,Forecast,SARIMA,Fruits
+2051,11023.452543892097,Forecast,SARIMA,Fruits
+2024,7271.661839691564,Forecast,Auto ARIMA,Fruits
+2025,7401.771319750932,Forecast,Auto ARIMA,Fruits
+2026,7535.0873617161815,Forecast,Auto ARIMA,Fruits
+2027,7667.421577271972,Forecast,Auto ARIMA,Fruits
+2028,7800.056421079019,Forecast,Auto ARIMA,Fruits
+2029,7932.599214657448,Forecast,Auto ARIMA,Fruits
+2030,8065.170193360041,Forecast,Auto ARIMA,Fruits
+2031,8197.732541978428,Forecast,Auto ARIMA,Fruits
+2032,8330.29753306711,Forecast,Auto ARIMA,Fruits
+2033,8462.861715050216,Forecast,Auto ARIMA,Fruits
+2034,8595.426144775685,Forecast,Auto ARIMA,Fruits
+2035,8727.990498644207,Forecast,Auto ARIMA,Fruits
+2036,8860.554875739586,Forecast,Auto ARIMA,Fruits
+2037,8993.119245723066,Forecast,Auto ARIMA,Fruits
+2038,9125.683617884159,Forecast,Auto ARIMA,Fruits
+2039,9258.247989378482,Forecast,Auto ARIMA,Fruits
+2040,9390.812361076965,Forecast,Auto ARIMA,Fruits
+2041,9523.376732712937,Forecast,Auto ARIMA,Fruits
+2042,9655.94110436805,Forecast,Auto ARIMA,Fruits
+2043,9788.5054760173,Forecast,Auto ARIMA,Fruits
+2044,9921.069847668346,Forecast,Auto ARIMA,Fruits
+2045,10053.634219318843,Forecast,Auto ARIMA,Fruits
+2046,10186.198590969507,Forecast,Auto ARIMA,Fruits
+2047,10318.76296262012,Forecast,Auto ARIMA,Fruits
+2048,10451.327334270749,Forecast,Auto ARIMA,Fruits
+2049,10583.891705921373,Forecast,Auto ARIMA,Fruits
+2050,10716.456077571998,Forecast,Auto ARIMA,Fruits
+2051,10849.020449222624,Forecast,Auto ARIMA,Fruits
+1949,10100.0,Historical,-,OilSeeds
+1950,11100.0,Historical,-,OilSeeds
+1951,12100.0,Historical,-,OilSeeds
+1952,11180.0,Historical,-,OilSeeds
+1953,10990.0,Historical,-,OilSeeds
+1954,12520.0,Historical,-,OilSeeds
+1955,12090.0,Historical,-,OilSeeds
+1956,12490.0,Historical,-,OilSeeds
+1957,12660.0,Historical,-,OilSeeds
+1958,13000.0,Historical,-,OilSeeds
+1959,13950.0,Historical,-,OilSeeds
+1960,13770.0,Historical,-,OilSeeds
+1961,14770.0,Historical,-,OilSeeds
+1962,15340.0,Historical,-,OilSeeds
+1963,14820.0,Historical,-,OilSeeds
+1964,15260.0,Historical,-,OilSeeds
+1965,15250.0,Historical,-,OilSeeds
+1966,15946.0,Historical,-,OilSeeds
+1967,16647.0,Historical,-,OilSeeds
+1968,15490.0,Historical,-,OilSeeds
+1969,15874.0,Historical,-,OilSeeds
+1970,16494.0,Historical,-,OilSeeds
+1971,17125.0,Historical,-,OilSeeds
+1972,15639.0,Historical,-,OilSeeds
+1973,16617.0,Historical,-,OilSeeds
+1974,16907.0,Historical,-,OilSeeds
+1975,16513.0,Historical,-,OilSeeds
+1976,16465.0,Historical,-,OilSeeds
+1977,17167.0,Historical,-,OilSeeds
+1978,17708.0,Historical,-,OilSeeds
+1979,16941.0,Historical,-,OilSeeds
+1980,17603.0,Historical,-,OilSeeds
+1981,18908.0,Historical,-,OilSeeds
+1982,17754.0,Historical,-,OilSeeds
+1983,18689.0,Historical,-,OilSeeds
+1984,18924.0,Historical,-,OilSeeds
+1985,19019.0,Historical,-,OilSeeds
+1986,18626.0,Historical,-,OilSeeds
+1987,20132.0,Historical,-,OilSeeds
+1988,21897.0,Historical,-,OilSeeds
+1989,22800.0,Historical,-,OilSeeds
+1990,24148.0,Historical,-,OilSeeds
+1991,25886.0,Historical,-,OilSeeds
+1992,25236.0,Historical,-,OilSeeds
+1993,26897.0,Historical,-,OilSeeds
+1994,25304.0,Historical,-,OilSeeds
+1995,25966.0,Historical,-,OilSeeds
+1996,26309.0,Historical,-,OilSeeds
+1997,26095.0,Historical,-,OilSeeds
+1998,26199.0,Historical,-,OilSeeds
+1999,24258.0,Historical,-,OilSeeds
+2000,22770.0,Historical,-,OilSeeds
+2001,22636.0,Historical,-,OilSeeds
+2002,21489.0,Historical,-,OilSeeds
+2003,23663.0,Historical,-,OilSeeds
+2004,27523.0,Historical,-,OilSeeds
+2005,27863.0,Historical,-,OilSeeds
+2006,26513.0,Historical,-,OilSeeds
+2007,26693.0,Historical,-,OilSeeds
+2008,27558.0,Historical,-,OilSeeds
+2009,25959.0,Historical,-,OilSeeds
+2010,27224.0,Historical,-,OilSeeds
+2011,26308.0,Historical,-,OilSeeds
+2012,26484.0,Historical,-,OilSeeds
+2013,28050.0,Historical,-,OilSeeds
+2014,25596.0,Historical,-,OilSeeds
+2015,26087.0,Historical,-,OilSeeds
+2016,26177.0,Historical,-,OilSeeds
+2017,24508.0,Historical,-,OilSeeds
+2018,24794.0,Historical,-,OilSeeds
+2019,27139.0,Historical,-,OilSeeds
+2020,28834.0,Historical,-,OilSeeds
+2021,28945.0,Historical,-,OilSeeds
+2022,30239.0,Historical,-,OilSeeds
+2023,30192.0,Historical,-,OilSeeds
+2023,29883.93017543858,Forecast,Linear Regression,OilSeeds
+2024,30137.796036036045,Forecast,Linear Regression,OilSeeds
+2025,30391.66189663345,Forecast,Linear Regression,OilSeeds
+2026,30645.527757230913,Forecast,Linear Regression,OilSeeds
+2027,30899.393617828377,Forecast,Linear Regression,OilSeeds
+2028,31153.25947842578,Forecast,Linear Regression,OilSeeds
+2029,31407.125339023245,Forecast,Linear Regression,OilSeeds
+2030,31660.99119962065,Forecast,Linear Regression,OilSeeds
+2031,31914.857060218113,Forecast,Linear Regression,OilSeeds
+2032,32168.722920815577,Forecast,Linear Regression,OilSeeds
+2033,32422.588781412982,Forecast,Linear Regression,OilSeeds
+2034,32676.454642010445,Forecast,Linear Regression,OilSeeds
+2035,32930.32050260785,Forecast,Linear Regression,OilSeeds
+2036,33184.186363205314,Forecast,Linear Regression,OilSeeds
+2037,33438.05222380272,Forecast,Linear Regression,OilSeeds
+2038,33691.91808440018,Forecast,Linear Regression,OilSeeds
+2039,33945.783944997645,Forecast,Linear Regression,OilSeeds
+2040,34199.64980559505,Forecast,Linear Regression,OilSeeds
+2041,34453.515666192514,Forecast,Linear Regression,OilSeeds
+2042,34707.38152678992,Forecast,Linear Regression,OilSeeds
+2043,34961.24738738738,Forecast,Linear Regression,OilSeeds
+2044,35215.113247984846,Forecast,Linear Regression,OilSeeds
+2045,35468.97910858225,Forecast,Linear Regression,OilSeeds
+2046,35722.844969179714,Forecast,Linear Regression,OilSeeds
+2047,35976.71082977712,Forecast,Linear Regression,OilSeeds
+2048,36230.57669037458,Forecast,Linear Regression,OilSeeds
+2049,36484.442550972046,Forecast,Linear Regression,OilSeeds
+2050,36738.30841156945,Forecast,Linear Regression,OilSeeds
+2023,29063.452875094008,Forecast,Prophet,OilSeeds
+2024,29316.197048838483,Forecast,Prophet,OilSeeds
+2025,29480.975598728204,Forecast,Prophet,OilSeeds
+2026,29660.656141442734,Forecast,Prophet,OilSeeds
+2027,29876.89725003359,Forecast,Prophet,OilSeeds
+2028,30129.641423777968,Forecast,Prophet,OilSeeds
+2029,30294.419973667285,Forecast,Prophet,OilSeeds
+2030,30474.100516382165,Forecast,Prophet,OilSeeds
+2031,30690.341624972647,Forecast,Prophet,OilSeeds
+2032,30943.0857987182,Forecast,Prophet,OilSeeds
+2033,31107.864348606698,Forecast,Prophet,OilSeeds
+2034,31287.544891321202,Forecast,Prophet,OilSeeds
+2035,31503.78599991183,Forecast,Prophet,OilSeeds
+2036,31756.53017365691,Forecast,Prophet,OilSeeds
+2037,31921.30872354548,Forecast,Prophet,OilSeeds
+2038,32100.9892662605,Forecast,Prophet,OilSeeds
+2039,32317.23037485045,Forecast,Prophet,OilSeeds
+2040,32569.97454859601,Forecast,Prophet,OilSeeds
+2041,32734.75309848479,Forecast,Prophet,OilSeeds
+2042,32914.433641199845,Forecast,Prophet,OilSeeds
+2043,33130.67474979078,Forecast,Prophet,OilSeeds
+2044,33383.418923535675,Forecast,Prophet,OilSeeds
+2045,33548.197473424436,Forecast,Prophet,OilSeeds
+2046,33727.87801613898,Forecast,Prophet,OilSeeds
+2047,33944.11912472995,Forecast,Prophet,OilSeeds
+2048,34196.863298474214,Forecast,Prophet,OilSeeds
+2049,34361.641848363026,Forecast,Prophet,OilSeeds
+2050,34541.32239107807,Forecast,Prophet,OilSeeds
+2024,30833.092538292658,Forecast,Exponential Smoothing,OilSeeds
+2025,30671.321218462996,Forecast,Exponential Smoothing,OilSeeds
+2026,30740.278748270368,Forecast,Exponential Smoothing,OilSeeds
+2027,31533.155132156826,Forecast,Exponential Smoothing,OilSeeds
+2028,32080.953107447553,Forecast,Exponential Smoothing,OilSeeds
+2029,31919.181787617887,Forecast,Exponential Smoothing,OilSeeds
+2030,31988.13931742526,Forecast,Exponential Smoothing,OilSeeds
+2031,32781.01570131172,Forecast,Exponential Smoothing,OilSeeds
+2032,33328.81367660245,Forecast,Exponential Smoothing,OilSeeds
+2033,33167.04235677278,Forecast,Exponential Smoothing,OilSeeds
+2034,33235.999886580146,Forecast,Exponential Smoothing,OilSeeds
+2035,34028.876270466615,Forecast,Exponential Smoothing,OilSeeds
+2036,34576.674245757335,Forecast,Exponential Smoothing,OilSeeds
+2037,34414.902925927665,Forecast,Exponential Smoothing,OilSeeds
+2038,34483.86045573504,Forecast,Exponential Smoothing,OilSeeds
+2039,35276.73683962151,Forecast,Exponential Smoothing,OilSeeds
+2040,35824.53481491223,Forecast,Exponential Smoothing,OilSeeds
+2041,35662.76349508256,Forecast,Exponential Smoothing,OilSeeds
+2042,35731.72102488993,Forecast,Exponential Smoothing,OilSeeds
+2043,36524.5974087764,Forecast,Exponential Smoothing,OilSeeds
+2044,37072.395384067124,Forecast,Exponential Smoothing,OilSeeds
+2045,36910.624064237454,Forecast,Exponential Smoothing,OilSeeds
+2046,36979.58159404482,Forecast,Exponential Smoothing,OilSeeds
+2047,37772.45797793129,Forecast,Exponential Smoothing,OilSeeds
+2048,38320.25595322201,Forecast,Exponential Smoothing,OilSeeds
+2049,38158.48463339234,Forecast,Exponential Smoothing,OilSeeds
+2050,38227.44216319972,Forecast,Exponential Smoothing,OilSeeds
+2051,39020.318547086186,Forecast,Exponential Smoothing,OilSeeds
+1949,20200.0,Historical,-,Pulses
+1950,19091.0,Historical,-,Pulses
+1951,18775.0,Historical,-,Pulses
+1952,19845.0,Historical,-,Pulses
+1953,21729.0,Historical,-,Pulses
+1954,21914.0,Historical,-,Pulses
+1955,23216.0,Historical,-,Pulses
+1956,23316.0,Historical,-,Pulses
+1957,22538.0,Historical,-,Pulses
+1958,24311.0,Historical,-,Pulses
+1959,24833.0,Historical,-,Pulses
+1960,23563.0,Historical,-,Pulses
+1961,24243.0,Historical,-,Pulses
+1962,24265.0,Historical,-,Pulses
+1963,24186.0,Historical,-,Pulses
+1964,23875.0,Historical,-,Pulses
+1965,22717.0,Historical,-,Pulses
+1966,22121.0,Historical,-,Pulses
+1967,22649.0,Historical,-,Pulses
+1968,21264.0,Historical,-,Pulses
+1969,22023.0,Historical,-,Pulses
+1970,22534.0,Historical,-,Pulses
+1971,22151.0,Historical,-,Pulses
+1972,20915.0,Historical,-,Pulses
+1973,23427.0,Historical,-,Pulses
+1974,22024.0,Historical,-,Pulses
+1975,24454.0,Historical,-,Pulses
+1976,22983.0,Historical,-,Pulses
+1977,23497.0,Historical,-,Pulses
+1978,23657.0,Historical,-,Pulses
+1979,22259.0,Historical,-,Pulses
+1980,22457.0,Historical,-,Pulses
+1981,23843.0,Historical,-,Pulses
+1982,22833.0,Historical,-,Pulses
+1983,23542.0,Historical,-,Pulses
+1984,22737.0,Historical,-,Pulses
+1985,24418.0,Historical,-,Pulses
+1986,23156.0,Historical,-,Pulses
+1987,21559.0,Historical,-,Pulses
+1988,23146.0,Historical,-,Pulses
+1989,23415.0,Historical,-,Pulses
+1990,24662.0,Historical,-,Pulses
+1991,22543.0,Historical,-,Pulses
+1992,22360.0,Historical,-,Pulses
+1993,22250.0,Historical,-,Pulses
+1994,23028.0,Historical,-,Pulses
+1995,22283.0,Historical,-,Pulses
+1996,22447.0,Historical,-,Pulses
+1997,22871.0,Historical,-,Pulses
+1998,23501.0,Historical,-,Pulses
+1999,21116.0,Historical,-,Pulses
+2000,20348.0,Historical,-,Pulses
+2001,22008.0,Historical,-,Pulses
+2002,20496.0,Historical,-,Pulses
+2003,23458.0,Historical,-,Pulses
+2004,22763.0,Historical,-,Pulses
+2005,22391.0,Historical,-,Pulses
+2006,22392.0,Historical,-,Pulses
+2007,23633.0,Historical,-,Pulses
+2008,22094.0,Historical,-,Pulses
+2009,23282.0,Historical,-,Pulses
+2010,26407.0,Historical,-,Pulses
+2011,24462.0,Historical,-,Pulses
+2012,23257.0,Historical,-,Pulses
+2013,25220.0,Historical,-,Pulses
+2014,23553.0,Historical,-,Pulses
+2015,24911.0,Historical,-,Pulses
+2016,29445.0,Historical,-,Pulses
+2017,29813.0,Historical,-,Pulses
+2018,29156.0,Historical,-,Pulses
+2019,27987.0,Historical,-,Pulses
+2020,28783.0,Historical,-,Pulses
+2021,30731.0,Historical,-,Pulses
+2022,28901.0,Historical,-,Pulses
+2023,27505.0,Historical,-,Pulses
+2024,27852.282900436592,Forecast,ARIMA,Pulses
+2025,27892.18803457708,Forecast,ARIMA,Pulses
+2026,27896.77340209379,Forecast,ARIMA,Pulses
+2027,27897.30029157095,Forecast,ARIMA,Pulses
+2028,27897.3608347052,Forecast,ARIMA,Pulses
+2029,27897.36779151733,Forecast,ARIMA,Pulses
+2030,27897.368590901693,Forecast,ARIMA,Pulses
+2031,27897.368682756318,Forecast,ARIMA,Pulses
+2032,27897.36869331103,Forecast,ARIMA,Pulses
+2033,27897.368694523837,Forecast,ARIMA,Pulses
+2034,27897.368694663197,Forecast,ARIMA,Pulses
+2035,27897.36869467921,Forecast,ARIMA,Pulses
+2036,27897.368694681052,Forecast,ARIMA,Pulses
+2037,27897.368694681263,Forecast,ARIMA,Pulses
+2038,27897.36869468129,Forecast,ARIMA,Pulses
+2039,27897.368694681292,Forecast,ARIMA,Pulses
+2040,27897.368694681292,Forecast,ARIMA,Pulses
+2041,27897.368694681292,Forecast,ARIMA,Pulses
+2042,27897.368694681292,Forecast,ARIMA,Pulses
+2043,27897.368694681292,Forecast,ARIMA,Pulses
+2044,27897.368694681292,Forecast,ARIMA,Pulses
+2045,27897.368694681292,Forecast,ARIMA,Pulses
+2046,27897.368694681292,Forecast,ARIMA,Pulses
+2047,27897.368694681292,Forecast,ARIMA,Pulses
+2048,27897.368694681292,Forecast,ARIMA,Pulses
+2049,27897.368694681292,Forecast,ARIMA,Pulses
+2050,27897.368694681292,Forecast,ARIMA,Pulses
+2051,27897.368694681292,Forecast,ARIMA,Pulses
+2024,27532.53738522957,Forecast,Auto ARIMA,Pulses
+2025,27825.595411126546,Forecast,Auto ARIMA,Pulses
+2026,27303.68690400579,Forecast,Auto ARIMA,Pulses
+2027,27484.672351728612,Forecast,Auto ARIMA,Pulses
+2028,27710.1803104446,Forecast,Auto ARIMA,Pulses
+2029,27489.265646694832,Forecast,Auto ARIMA,Pulses
+2030,27882.693678586573,Forecast,Auto ARIMA,Pulses
+2031,27746.262201561116,Forecast,Auto ARIMA,Pulses
+2032,27576.268512699808,Forecast,Auto ARIMA,Pulses
+2033,27742.79965788957,Forecast,Auto ARIMA,Pulses
+2034,27446.22350677043,Forecast,Auto ARIMA,Pulses
+2035,27549.069056827328,Forecast,Auto ARIMA,Pulses
+2036,27677.214663825926,Forecast,Auto ARIMA,Pulses
+2037,27551.679211142593,Forecast,Auto ARIMA,Pulses
+2038,27775.245928007458,Forecast,Auto ARIMA,Pulses
+2039,27697.718311968147,Forecast,Auto ARIMA,Pulses
+2040,27601.118863464875,Forecast,Auto ARIMA,Pulses
+2041,27695.75071063347,Forecast,Auto ARIMA,Pulses
+2042,27527.220379718034,Forecast,Auto ARIMA,Pulses
+2043,27585.662687094617,Forecast,Auto ARIMA,Pulses
+2044,27658.481831423447,Forecast,Auto ARIMA,Pulses
+2045,27587.145915495934,Forecast,Auto ARIMA,Pulses
+2046,27714.188405705398,Forecast,Auto ARIMA,Pulses
+2047,27670.13309398567,Forecast,Auto ARIMA,Pulses
+2048,27615.240153467454,Forecast,Auto ARIMA,Pulses
+2049,27669.01499833708,Forecast,Auto ARIMA,Pulses
+2050,27573.247107590338,Forecast,Auto ARIMA,Pulses
+2051,27606.457132619224,Forecast,Auto ARIMA,Pulses
+2023,28286.7460877803,Forecast,Prophet,Pulses
+2024,28362.144363901098,Forecast,Prophet,Pulses
+2025,29245.584687705283,Forecast,Prophet,Pulses
+2026,29295.979311374787,Forecast,Prophet,Pulses
+2027,29358.74982538922,Forecast,Prophet,Pulses
+2028,29434.14810150824,Forecast,Prophet,Pulses
+2029,30317.588425312435,Forecast,Prophet,Pulses
+2030,30367.983048984166,Forecast,Prophet,Pulses
+2031,30430.75356299719,Forecast,Prophet,Pulses
+2032,30506.151839116686,Forecast,Prophet,Pulses
+2033,31389.59216292196,Forecast,Prophet,Pulses
+2034,31439.986786589543,Forecast,Prophet,Pulses
+2035,31502.757300606158,Forecast,Prophet,Pulses
+2036,31578.155576722744,Forecast,Prophet,Pulses
+2037,32461.59590052768,Forecast,Prophet,Pulses
+2038,32511.990524199085,Forecast,Prophet,Pulses
+2039,32574.76103821626,Forecast,Prophet,Pulses
+2040,32650.15931433207,Forecast,Prophet,Pulses
+2041,33533.59963813608,Forecast,Prophet,Pulses
+2042,33583.99426180788,Forecast,Prophet,Pulses
+2043,33646.76477582109,Forecast,Prophet,Pulses
+2044,33722.16305194108,Forecast,Prophet,Pulses
+2045,34605.60337574659,Forecast,Prophet,Pulses
+2046,34655.99799941387,Forecast,Prophet,Pulses
+2047,34718.768513429844,Forecast,Prophet,Pulses
+2048,34794.1667895509,Forecast,Prophet,Pulses
+2049,35677.60711335155,Forecast,Prophet,Pulses
+2050,35728.00173702356,Forecast,Prophet,Pulses
